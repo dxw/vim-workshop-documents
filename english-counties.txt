@@ -1,0 +1,73 @@
+Avon
+Bedfordshire
+Berkshire
+City of Brighton and Hove
+City of Bristol
+Buckinghamshire
+Cambridgeshire
+Cambridgeshire and Isle of Ely
+Cheshire
+Cleveland
+Cornwall
+Cumberland
+Cumbria
+Derbyshire
+Devon
+Dorset
+Durham (County Durham)
+East Suffolk
+East Sussex
+Essex
+Gloucestershire
+Greater London
+Greater Manchester
+Hampshire
+Hereford and Worcester
+Herefordshire
+Hertfordshire
+Humberside
+Huntingdon and Peterborough
+Huntingdonshire
+Isle of Ely
+Isle of Wight
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Lincolnshire, Parts of Holland
+Lincolnshire, Parts of Kesteven
+Lincolnshire, Parts of Lindsey
+London
+City of London
+Merseyside
+Middlesex
+Norfolk
+Northamptonshire
+Northumberland
+North Humberside
+North Yorkshire
+Nottinghamshire
+Oxfordshire
+Soke of Peterborough
+Rutland
+Shropshire
+Somerset
+South Humberside
+South Yorkshire
+Staffordshire
+Suffolk
+Surrey
+Sussex
+Tyne and Wear
+Warwickshire
+West Midlands
+Westmorland
+West Suffolk
+West Sussex
+West Yorkshire
+Wiltshire
+Worcestershire
+Yorkshire
+Yorkshire, East Riding
+Yorkshire, North Riding
+Yorkshire, West Riding
